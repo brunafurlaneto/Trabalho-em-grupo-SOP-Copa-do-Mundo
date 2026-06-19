@@ -1,20 +1,24 @@
 # Site da Equipe
 
-## Integrantes
+## Integrantes:
+
 - Guilherme De Oliveira
 - Lorenzo Biachini De Andrade
 - Bruna De Castro furlaneto
 - Leticia Silva Ribeiro
 
-## Sobre o projeto
+## Sobre o projeto:
+
 Este projeto foi desenvolvido para aprender Git e GitHub através da criação de um site em equipe.
 
-## Páginas
+## Páginas:
+
 -
 - 
 - 
 -
 -
 
-## Como acessar
+## Como acessar:
+
 Link do site: 
