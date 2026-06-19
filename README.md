@@ -1,5 +1,4 @@
 # Site da Equipe
--tema: copa do mundo
 
 ## Integrantes
 - Guilherme De Oliveira
@@ -11,11 +10,11 @@
 Este projeto foi desenvolvido para aprender Git e GitHub através da criação de um site em equipe.
 
 ## Páginas
-- 
+-
 - 
 - 
 -
 -
 
 ## Como acessar
-Link do site:
+Link do site: 
